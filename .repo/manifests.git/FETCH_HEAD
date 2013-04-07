@@ -1,0 +1,317 @@
+1b4d95f6aab2feaf97d017ea03a808613741a8f6		branch 'android-1.5' of ssh://192.168.2.125:29418/android/platform/manifest
+2de7a110f9378abed925d021e7ac533b0521ad45		branch 'android-1.5r2' of ssh://192.168.2.125:29418/android/platform/manifest
+785128463f72e80c56122f9d3e3a6abd930b625d		branch 'android-1.5r3' of ssh://192.168.2.125:29418/android/platform/manifest
+def9e487d555bc30101e6946c21a49fbaf3dda43		branch 'android-1.5r4' of ssh://192.168.2.125:29418/android/platform/manifest
+3dbf7a37083842030d67082219af4b6a09f1a12b		branch 'android-1.6_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+93b16e4d13acd3f583308f31f8466eba89ffe594		branch 'android-1.6_r1.1' of ssh://192.168.2.125:29418/android/platform/manifest
+4ebf0995de5da07dbb105a430029266c87836f28		branch 'android-1.6_r1.2' of ssh://192.168.2.125:29418/android/platform/manifest
+7e4a737d419c7874abf75978848dcbde67633b83		branch 'android-1.6_r1.3' of ssh://192.168.2.125:29418/android/platform/manifest
+b5eb050e6605878f85a42be65668b814f9fd6c1b		branch 'android-1.6_r1.4' of ssh://192.168.2.125:29418/android/platform/manifest
+fa00a4fe93112ee373426202e0691df9001ac76f		branch 'android-1.6_r1.5' of ssh://192.168.2.125:29418/android/platform/manifest
+9179092912387fbdc719448892e5087ab3efeb01		branch 'android-1.6_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+b59f5cb0659c0b1b18c1161358eaf31e8f46f403		branch 'android-2.0.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+03b0d238eb30f9cb54a6fb7ffa56f7a547882629		branch 'android-2.0_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+36cd862c1b44a6dee835497ebe216ff81464c2d6		branch 'android-2.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+8d2cf2b079e4d2ee3099946b388c9ad9f8e4a94f		branch 'android-2.1_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+fd32a8aaf3ec9c11a873727a323c93e785df2503		branch 'android-2.1_r2.1p' of ssh://192.168.2.125:29418/android/platform/manifest
+68cafac426e38330b065111e68ce4febd250bcff		branch 'android-2.1_r2.1p2' of ssh://192.168.2.125:29418/android/platform/manifest
+578bd4e4fdb22b67058cccbac78d795ccba46b84		branch 'android-2.1_r2.1s' of ssh://192.168.2.125:29418/android/platform/manifest
+9d48e5594b58a5bda2f5cf826b8d7cd391dd9986		branch 'android-2.2.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+d4e3584ec13d0cedac34182c9a024d2f3f3a59c1		branch 'android-2.2.1_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+320229cd98b6f101488b9f20872db99f135da901		branch 'android-2.2.2_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+eac28a94fcf9fbb4fec8ac2a119a65b73094b391		branch 'android-2.2.3_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+950bc00c84cb46d72916e8ff2f7aa0aa0edb9b27		branch 'android-2.2.3_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+750313d9ddb35959103d75ff8c450f4d7b6596d9		branch 'android-2.2.3_r2.1' of ssh://192.168.2.125:29418/android/platform/manifest
+2b724973c2120e289caa6b6ead3ac1a48288abee		branch 'android-2.2_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+980d5f9a81a719860c29a961e825fbc49b69f048		branch 'android-2.2_r1.1' of ssh://192.168.2.125:29418/android/platform/manifest
+d3f1ea5bace72d3ea5ec20e2637fe8667920d7ec		branch 'android-2.2_r1.2' of ssh://192.168.2.125:29418/android/platform/manifest
+777660e33abc5e3c817181f5c9c0a24210228ae6		branch 'android-2.2_r1.3' of ssh://192.168.2.125:29418/android/platform/manifest
+39371b2d2d1d998c86db3c3dacb9ec9f5d9e566d		branch 'android-2.3.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+932585689dbe625b5d28cc4d7fb7524e7d1d3b18		branch 'android-2.3.2_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+fd4520be554998bd2220a4c4e059276f8ece87d0		branch 'android-2.3.3_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+de2b686b728881fe952857d5a6d9ec5d918fbc50		branch 'android-2.3.3_r1.1' of ssh://192.168.2.125:29418/android/platform/manifest
+a28db5eb8920d60e8bf5d11cba8871720e7b354e		branch 'android-2.3.4_r0.9' of ssh://192.168.2.125:29418/android/platform/manifest
+c47192cc323e310df97b789df5a1fe6f92499e41		branch 'android-2.3.4_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+bf07547ab95cd41ef878c95bbfef62aed87cedfe		branch 'android-2.3.5_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+7055752dd08078a6fb57b92c66f33f8a681ee65c		branch 'android-2.3.6_r0.9' of ssh://192.168.2.125:29418/android/platform/manifest
+7a08b14fb75fd94fa5688efddec04dbe1be48006		branch 'android-2.3.6_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+e0f06d722ae7908ae515043920cf2115874afec9		branch 'android-2.3.7_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+862b58a8a5cb7069eba33c9eb8588eeeb34e6397		branch 'android-2.3_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+c4e4db1a85b9bea00b9fe8c6a18f9d3357adab0c		branch 'android-4.0.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+8bd7fa994eb796bf1a700f16858c56b44c22fc89		branch 'android-4.0.1_r1.1' of ssh://192.168.2.125:29418/android/platform/manifest
+f7881bce28f585c6fd393bc8e0410e8d187dfc20		branch 'android-4.0.1_r1.2' of ssh://192.168.2.125:29418/android/platform/manifest
+6699333dd8d7f95aa01463c918739fdb057da8ca		branch 'android-4.0.2_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+f5e8bef9db4874e4243ec56dcf5498d31a9221d6		branch 'android-4.0.3_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+2cbe5d90881ce4d681d11e46d524385a8e4fe73a		branch 'android-4.0.3_r1.1' of ssh://192.168.2.125:29418/android/platform/manifest
+1358580a0e00e25a9f6b003ea9322d8ed5b5fc65		branch 'android-4.0.4_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+81ef818506602b7bba2caf754307f7f7382e8991		branch 'android-4.0.4_r1.1' of ssh://192.168.2.125:29418/android/platform/manifest
+11a915181c2b8fc8d4402eb1a63c5931dfd4ae66		branch 'android-4.0.4_r1.2' of ssh://192.168.2.125:29418/android/platform/manifest
+9cdf2369b6801dc09d993fd9bb99d53a7d2f291d		branch 'android-4.0.4_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+b22f804b103755c4617d0b2cd603f216c3549050		branch 'android-4.0.4_r2.1' of ssh://192.168.2.125:29418/android/platform/manifest
+0983a066184665e50bbf19cd165f288ab0842cd2		branch 'android-4.1.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+4c4b513351938145f3f68ccdda037e95e9a2fb9b		branch 'android-4.1.1_r1.1' of ssh://192.168.2.125:29418/android/platform/manifest
+5e9f6af252b5e69abe47f21b844fb2496f43995b		branch 'android-4.1.1_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+9ae01ca9c4a87ce24161ac0b7f2391136e0d8d14		branch 'android-4.1.1_r3' of ssh://192.168.2.125:29418/android/platform/manifest
+e5b19423d5df4cc2d60a3f675fe40cbdd115fa13		branch 'android-4.1.1_r4' of ssh://192.168.2.125:29418/android/platform/manifest
+f0b7c20ed54382de9995aafac208b7849f39cf4d		branch 'android-adt-0.9.8' of ssh://192.168.2.125:29418/android/platform/manifest
+2262e5c7e646c6d78022819b54d38066d134656a		branch 'android-adt-0.9.9' of ssh://192.168.2.125:29418/android/platform/manifest
+46f3c09e52a9524c04a2ebf94499d2c085e2ff31		branch 'android-cts-2.1_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+2e46e3e9e481666e1eb732d04343575d08ef19ea		branch 'android-cts-2.1_r3' of ssh://192.168.2.125:29418/android/platform/manifest
+d935eaddda272b0f237028d55a59c3bda56d5905		branch 'android-cts-2.1_r4' of ssh://192.168.2.125:29418/android/platform/manifest
+8436b808c785748e8bff562255bc5258f8da5b34		branch 'android-cts-2.1_r5' of ssh://192.168.2.125:29418/android/platform/manifest
+476d016ba630f35f67ab6879e0418828e13e5948		branch 'android-cts-2.2_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+b13a20a375adc05b0915d150dbb418ea8570c069		branch 'android-cts-2.2_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+28a0f39abc716eff40061b8665397c7498651861		branch 'android-cts-2.2_r3' of ssh://192.168.2.125:29418/android/platform/manifest
+14f031809bf4dc6235abe1990fb1b5e313c16e0a		branch 'android-cts-2.2_r4' of ssh://192.168.2.125:29418/android/platform/manifest
+f3a5a0886279da02b83ae558c52803ceb2b878e1		branch 'android-cts-2.2_r5' of ssh://192.168.2.125:29418/android/platform/manifest
+c2637a8695eb9fdf2b4eaee54c6cc9a8d4aadf62		branch 'android-cts-2.2_r6' of ssh://192.168.2.125:29418/android/platform/manifest
+691335197773c9bdc35d12b64456a246f557b8cb		branch 'android-cts-2.2_r7' of ssh://192.168.2.125:29418/android/platform/manifest
+00b26cfb0c1f3cc6c3156677fa46c511b792c942		branch 'android-cts-2.2_r8' of ssh://192.168.2.125:29418/android/platform/manifest
+ac5268f7f8b482f3ef2506995f18aa35639d5ed2		branch 'android-cts-2.3_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+eb2f6de29e41f19be633449a5afeaf5c9c350e39		branch 'android-cts-2.3_r10' of ssh://192.168.2.125:29418/android/platform/manifest
+3d6c2b487396caccaf8439946f52af37f1247c31		branch 'android-cts-2.3_r11' of ssh://192.168.2.125:29418/android/platform/manifest
+61c3152bf12fd28b8d19c35b1e08c4e71ee521f5		branch 'android-cts-2.3_r12' of ssh://192.168.2.125:29418/android/platform/manifest
+bee7dfd18667286995fd38d2a396ac603c69d3f6		branch 'android-cts-2.3_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+fbb23732a3d473cb9818f675c30da95efc0c1ade		branch 'android-cts-2.3_r3' of ssh://192.168.2.125:29418/android/platform/manifest
+c390d7196e3ee786d2216126014770096c19db4e		branch 'android-cts-2.3_r4' of ssh://192.168.2.125:29418/android/platform/manifest
+7c8a433b66c75c72b69bec3fe3bb4b97881933a2		branch 'android-cts-2.3_r5' of ssh://192.168.2.125:29418/android/platform/manifest
+341c66b58bb560f64e2dd3bf1d7ef9899915c66d		branch 'android-cts-4.0.3_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+8772d687d0b3c6d7d480420c1e5204e5f1dabbb0		branch 'android-cts-4.0.3_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+b6f7347dfb8bcdfe0eea54068beb2aacf948cd0e		branch 'android-cts-4.0_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+d0358439ba4905c6a9b33138f0f26c1a7a57d335		branch 'android-cts-4.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+de2cc1fe5c561bb671682370f7abc9d248ae212f		branch 'android-cts-verifier-4.0.3_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+84e5092c025b43eda4786574b28cbfeb79488f14		branch 'android-cts-verifier-4.0_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+7c733a16553d4748fb869788a248ce0e215b69c1		branch 'android-sdk-1.5-pre' of ssh://192.168.2.125:29418/android/platform/manifest
+75bb5ee09d031661bf466c478ec2feef0e33f99a		branch 'android-sdk-1.5_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+9ff08a1c37559d20fcd2c3f5c8ec67e0c0d54791		branch 'android-sdk-1.5_r3' of ssh://192.168.2.125:29418/android/platform/manifest
+55a6e3ec9bab14e2f1c3eccbd1017417850a4fc8		branch 'android-sdk-1.6-docs_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+890823d10694db0a050b39a680b07cd1da6e1804		branch 'android-sdk-1.6_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+03ea7c1fde38fbbfb9dc4950b7123c8d2280ea12		branch 'android-sdk-1.6_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+4c5bc05d8e1f204152fb9ef73bba54aae556b32e		branch 'android-sdk-2.0.1-docs_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+5d3a42002e7eb8579256685ef46bc7621eef0f64		branch 'android-sdk-2.0.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+b7c77afc4310ffdcb1514090ea9c43d572f6baa5		branch 'android-sdk-2.0_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+54f9d83c997ab9b091010b37ecd5053c7a44759e		branch 'android-sdk-2.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+6c6a3faf77bcbd43236e6a2d6ddf44ca8f492c93		branch 'android-sdk-2.2_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+9d7041fc21a0cd968cf1f052dc5554a4bdd4797f		branch 'android-sdk-2.2_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+a26de9d4cd2a31a9fbc2e1fc42e9f073e5aed781		branch 'android-sdk-2.3.4_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+037c0fa999ff50c8cf931e3db93a45e6e5db7f26		branch 'android-sdk-4.0.3-tools_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+3e044dfed5a13309f463ed85a4b86580642e91ff		branch 'android-sdk-4.0.3_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+da04e213b92c83359760bdf87e8ad9854da03591		branch 'android-sdk-adt_r12' of ssh://192.168.2.125:29418/android/platform/manifest
+d37ffc3bb0bc5a7e023f6031fce12546d0ed16cf		branch 'android-sdk-adt_r16.0.1' of ssh://192.168.2.125:29418/android/platform/manifest
+f6546f0da2583bc98c28a860e5e9fc9b6a021a58		branch 'android-sdk-adt_r20' of ssh://192.168.2.125:29418/android/platform/manifest
+ac76a13c90603cbb307da3a9ebaa67b9dd35a74c		branch 'android-sdk-tools_r12' of ssh://192.168.2.125:29418/android/platform/manifest
+3273b2c1db7d07daaad44a23e9e78304b1d076b2		branch 'android-sdk-tools_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+aa9a95c1a287ec3e204d15da6b34e28f94fb5885		branch 'android-sdk-tools_r3' of ssh://192.168.2.125:29418/android/platform/manifest
+581892721c265efc9fc01ada15e1448c31a6e6e7		branch 'android-sdk-tools_r4' of ssh://192.168.2.125:29418/android/platform/manifest
+53fbfd40ef6899ee28fcf90ad21f9d9c59f45fef		branch 'android-sdk-tools_r5' of ssh://192.168.2.125:29418/android/platform/manifest
+7841f4ef1a7634d411c8833ee09a00779ee3bb46		branch 'android-sdk-tools_r6' of ssh://192.168.2.125:29418/android/platform/manifest
+12c95474c35e0e773de97ccea13a2852d5e82959		branch 'android-sdk-tools_r7' of ssh://192.168.2.125:29418/android/platform/manifest
+65c76f4eff9d7b48df1297670716a6dec62c0ca8		branch 'cdma-import' of ssh://192.168.2.125:29418/android/platform/manifest
+840e351e96837405442662217a397aef5ce38ade		branch 'cupcake' of ssh://192.168.2.125:29418/android/platform/manifest
+313f6c0ef4577861e4d675442257ed034ee35efb		branch 'cupcake-release' of ssh://192.168.2.125:29418/android/platform/manifest
+dc7ecd975f2d3a53797ebe7629bcd8e6a3e81843		branch 'default' of ssh://192.168.2.125:29418/android/platform/manifest
+d427dfcaf18e3aac3be48333aaac14abd052111d		branch 'dev-ing-jb-local' of ssh://192.168.2.125:29418/android/platform/manifest
+1227d611e630b75854253770ec861c2dacd33e6e		branch 'dev-ing-jb-local-4780' of ssh://192.168.2.125:29418/android/platform/manifest
+dbd09ca846a5a55be08ca593c3d7550310596ec4		branch 'dev-mips-froyo' of ssh://192.168.2.125:29418/android/platform/manifest
+101c9e80ca8887294ed67504c786db4775889cbf		branch 'dev-mips-gb-2.3.5' of ssh://192.168.2.125:29418/android/platform/manifest
+50dbae4123c798aaf4a9db56a11642a81dd87133		branch 'dev-mips-gingerbread' of ssh://192.168.2.125:29418/android/platform/manifest
+e5ed34bee438fdee9d802529c057d3791ccfaf43		branch 'dev-mips-ics-mr0' of ssh://192.168.2.125:29418/android/platform/manifest
+c1fbb9355b841757a7dca66c06cdf42c3430c471		branch 'dev-mips-ics-mr1' of ssh://192.168.2.125:29418/android/platform/manifest
+a552410bd8e42031fa8cf9241cc8e59fcc0abffa		branch 'dev-mips-jb' of ssh://192.168.2.125:29418/android/platform/manifest
+afd2eb5b1ac12dee49f5d678a6e89ed85e6dd726		branch 'donut' of ssh://192.168.2.125:29418/android/platform/manifest
+1d9b0f0126670c1f4191efc21ae9f82c44c7c9a0		branch 'donut-plus-aosp' of ssh://192.168.2.125:29418/android/platform/manifest
+f1c5b55b501ac6360b5185ac6ee4af7ef28bd9e6		branch 'eclair' of ssh://192.168.2.125:29418/android/platform/manifest
+71480329b4ff4ee7f07d756d139425676b09b7c9		branch 'froyo' of ssh://192.168.2.125:29418/android/platform/manifest
+6e2b25ea3a877c1c3ed6b4c233bd90f7143c930b		branch 'froyo-plus-aosp' of ssh://192.168.2.125:29418/android/platform/manifest
+32bb163e03ae0e8a1294d0bf58a3877fba04c5dd		branch 'gingerbread' of ssh://192.168.2.125:29418/android/platform/manifest
+12303f87b9f90c07bf4aec4c4353ba514ee70c8a		branch 'gingerbread-release' of ssh://192.168.2.125:29418/android/platform/manifest
+fd0e4636850dd5b30b08ea8fe21188c98ad0838d		branch 'ics-mr0' of ssh://192.168.2.125:29418/android/platform/manifest
+ed09c39c82e14a8582c613a1076f14cc32656a40		branch 'ics-mr1' of ssh://192.168.2.125:29418/android/platform/manifest
+39d65dfa756521bb6cd068739b986c562c8e902a		branch 'ics-plus-aosp' of ssh://192.168.2.125:29418/android/platform/manifest
+2cb2b24d59f4985dc08b85b6f5b6966a42ecfdc3		branch 'ing-ics-mr1' of ssh://192.168.2.125:29418/android/platform/manifest
+c4d30a71e594d7e64646eb2f013f216665c5ee0b		branch 'jb-dev' of ssh://192.168.2.125:29418/android/platform/manifest
+f230d89043fdd103e2a6515fb57be6ede2fb9aa2		branch 'jumper-stable' of ssh://192.168.2.125:29418/android/platform/manifest
+a07bad6077fabb77ef04226f8611ce6c74932bbc		branch 'master' of ssh://192.168.2.125:29418/android/platform/manifest
+87ea75948da70b18f0664ba6c1f11a381e3c36f5		branch 'master-dalvik' of ssh://192.168.2.125:29418/android/platform/manifest
+9894ce53c55e858048bef5bf3f24abc54e031c57		branch 'mips-cupcake' of ssh://192.168.2.125:29418/android/platform/manifest
+c7f830cb911ba6c17e56a08a26ac9f80d0b97637		branch 'mips-donut' of ssh://192.168.2.125:29418/android/platform/manifest
+183c06581d0957d418656337983af038d0b5cfa9		branch 'mips-eclair' of ssh://192.168.2.125:29418/android/platform/manifest
+e181f630d9f2b6bacdfaf82dcd163e5866ce3095		branch 'mips-froyo' of ssh://192.168.2.125:29418/android/platform/manifest
+500ce386d2e2d81ddbaed19fdedbf9c5f372667c		branch 'mips-froyo-r10' of ssh://192.168.2.125:29418/android/platform/manifest
+f98eaaee657da568000f305dc4e222f3a15745ae		branch 'mips-froyo-r5' of ssh://192.168.2.125:29418/android/platform/manifest
+8dcb52ee9ffa9c46ca7ac948f0038454ce8d05e3		branch 'mips-froyo-r6' of ssh://192.168.2.125:29418/android/platform/manifest
+6c8a2bd83fedfde9636206f7f24777942f96da3a		branch 'mips-froyo-r7' of ssh://192.168.2.125:29418/android/platform/manifest
+044892fa291865e58277767ab8b30a013919cb5d		branch 'mips-froyo-r8' of ssh://192.168.2.125:29418/android/platform/manifest
+6dc0536d41f0f84b8db0cedcd97065676ba23142		branch 'mips-froyo-r9' of ssh://192.168.2.125:29418/android/platform/manifest
+c32decd41c7e68822e49bcc30397fb355f9776f3		branch 'mips-gb-2.3.5' of ssh://192.168.2.125:29418/android/platform/manifest
+298f816f3bc35a9dbbe4d6b1e0711fa3ac80dc9b		branch 'mips-gingerbread' of ssh://192.168.2.125:29418/android/platform/manifest
+c96e45b30530aa9fb943a220a5c1cd31bd267a8a		branch 'mips-gingerbread-r1' of ssh://192.168.2.125:29418/android/platform/manifest
+922c376a71347aeed94e3304db52dcba702ec00a		branch 'mips-gingerbread-r2' of ssh://192.168.2.125:29418/android/platform/manifest
+0d757ce8ac38a416cc62debcb320c062646a4dc0		branch 'mips-master' of ssh://192.168.2.125:29418/android/platform/manifest
+ab694071c70114c25ffdd3d4701330a4ba5daf45		branch 'mips-master-dalvik' of ssh://192.168.2.125:29418/android/platform/manifest
+bdd56889283e4775bd86de2a19beda2800af75be		branch 'mips-master1' of ssh://192.168.2.125:29418/android/platform/manifest
+bcf40054e1c69a9439d771090222efecda747c88		branch 'release-1.0' of ssh://192.168.2.125:29418/android/platform/manifest
+1a06137f2d1f27a142e6a92f451a0a98ea0c7312		branch 'show' of ssh://192.168.2.125:29418/android/platform/manifest
+529505b1dc51e0db6916657cbe6b6cb13b787134		branch 'tools-adt_r11' of ssh://192.168.2.125:29418/android/platform/manifest
+78e0a3656dc2485f4fb6a9fa00be88c5df681d95		branch 'tools_r10' of ssh://192.168.2.125:29418/android/platform/manifest
+791be7dfb09244cd6611e1aaba3975ad38611f3e		branch 'tools_r11' of ssh://192.168.2.125:29418/android/platform/manifest
+71d4f9513cc30b1a45ac949860531979747a2582		branch 'tools_r12' of ssh://192.168.2.125:29418/android/platform/manifest
+260bcd23b341f40facf428a9bcbfa20b01e824a9		branch 'tools_r13' of ssh://192.168.2.125:29418/android/platform/manifest
+3d2a7ec921049021b51a152376e45dbe606ef10f		branch 'tools_r20' of ssh://192.168.2.125:29418/android/platform/manifest
+7f54d7d7ffa2fb8aed0d07d412df622b0085ae92		branch 'tools_r7' of ssh://192.168.2.125:29418/android/platform/manifest
+d434a44aaece6e82749943afe5c6a1881906fce1		branch 'tools_r8' of ssh://192.168.2.125:29418/android/platform/manifest
+1380bdf55595425abbee43719ffe94f22c31ae5e		branch 'tools_r9' of ssh://192.168.2.125:29418/android/platform/manifest
+5a09f80ca4e93e1da4fa9e8dfbdedd5d3fbac82b		branch 'tradefed' of ssh://192.168.2.125:29418/android/platform/manifest
+a80f7655567f4d3a4a99c75fd25a154e8773ba9d		branch 'wip-ing-ics-mr1' of ssh://192.168.2.125:29418/android/platform/manifest
+1a06137f2d1f27a142e6a92f451a0a98ea0c7312		branch 'wip-ingenic-ics-mr0' of ssh://192.168.2.125:29418/android/platform/manifest
+deafad9434983f881cfb8bfb49a02211e1c38df1		branch 'wip-ingenic-ics-mr1-local' of ssh://192.168.2.125:29418/android/platform/manifest
+f91ad75129e2c0fe3d4a00b0879e8a67e84565ca		branch 'wip-ingenic-ics-mr1.1-local' of ssh://192.168.2.125:29418/android/platform/manifest
+1ce483409d2318c8079ef867f67a8222997f5b59		branch 'wip-mips-ics-mr0' of ssh://192.168.2.125:29418/android/platform/manifest
+b9110f89ec36ca7fbf5014a0d107d416321a98e6		branch 'wip-mips-ics-mr1' of ssh://192.168.2.125:29418/android/platform/manifest
+3ebe4abdaff9d2e3aa6ab3e74702ca542126687e		branch 'wip-mips-ics-mr1.1' of ssh://192.168.2.125:29418/android/platform/manifest
+20ea80d2655bb4e9ce7a7b74915ee5af2ff70cc3	not-for-merge	tag 'android-1.0' of ssh://192.168.2.125:29418/android/platform/manifest
+97711ceb026d511ed35d48fa90e5b69aee3f29f9	not-for-merge	tag 'android-1.5' of ssh://192.168.2.125:29418/android/platform/manifest
+44c6c06618d7323001ce9b20af252fb839875fa2	not-for-merge	tag 'android-1.5r2' of ssh://192.168.2.125:29418/android/platform/manifest
+58ebba58f314c84ed031ffe128b6c1f0e3a99d9d	not-for-merge	tag 'android-1.5r3' of ssh://192.168.2.125:29418/android/platform/manifest
+2b61472085e919ca222df108ed10caa7c2382267	not-for-merge	tag 'android-1.5r4' of ssh://192.168.2.125:29418/android/platform/manifest
+46af7bd11d8236db5b0e2e6097ae3191351aee22	not-for-merge	tag 'android-1.6_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+c2b168586ccc8d54948472158aea788d11312fc5	not-for-merge	tag 'android-1.6_r1.1' of ssh://192.168.2.125:29418/android/platform/manifest
+94a37a478df450531a31d3cc8529c58a798066e2	not-for-merge	tag 'android-1.6_r1.1_' of ssh://192.168.2.125:29418/android/platform/manifest
+da5471375c162d34a077857e046078b02bd8b24c	not-for-merge	tag 'android-1.6_r1.2' of ssh://192.168.2.125:29418/android/platform/manifest
+eec41f7882e58ad7a8ef9838d8c117bbb90bf1e5	not-for-merge	tag 'android-1.6_r1.2_' of ssh://192.168.2.125:29418/android/platform/manifest
+2b0ec90ad63280ddf1450c44cf1621462fe394b0	not-for-merge	tag 'android-1.6_r1.3' of ssh://192.168.2.125:29418/android/platform/manifest
+dce27bdebd334a49c025e80e21d5868789ca030d	not-for-merge	tag 'android-1.6_r1.3_' of ssh://192.168.2.125:29418/android/platform/manifest
+83b490b1762d54b33f9ad4a9f82325d9d84c799c	not-for-merge	tag 'android-1.6_r1.4' of ssh://192.168.2.125:29418/android/platform/manifest
+f20ff2c599cdffbf3afe1d3d270c6f15073c5cd0	not-for-merge	tag 'android-1.6_r1.4_' of ssh://192.168.2.125:29418/android/platform/manifest
+2fafd4bc994f6b2ec05e1877f2540e3fb11edc13	not-for-merge	tag 'android-1.6_r1.5' of ssh://192.168.2.125:29418/android/platform/manifest
+c3ab3d3e9caa3041c432f06258bb649a5d5ac267	not-for-merge	tag 'android-1.6_r1.5_' of ssh://192.168.2.125:29418/android/platform/manifest
+f76ace7a62989996d7383fdaa5d7713c8afa45ea	not-for-merge	tag 'android-1.6_r1_' of ssh://192.168.2.125:29418/android/platform/manifest
+74e1a8523faae8bd9938c9941383a3753c12f1bd	not-for-merge	tag 'android-1.6_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+ec9f78f5a182fe1b3e3f3b5efe1ed3993ce162c6	not-for-merge	tag 'android-1.6_r2_' of ssh://192.168.2.125:29418/android/platform/manifest
+3ff41cd1cd1798b28c65f34b1957c89e548ba488	not-for-merge	tag 'android-2.0.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+1f5b6ba5daacc5fa60f2562a9d81881536ca0036	not-for-merge	tag 'android-2.0.1_r1_' of ssh://192.168.2.125:29418/android/platform/manifest
+572591443ab0db0ad26d25f35fc40e54c0a0e074	not-for-merge	tag 'android-2.0_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+65e1e066e6f4e76491b44fbc49ba584e48d5a772	not-for-merge	tag 'android-2.0_r1_' of ssh://192.168.2.125:29418/android/platform/manifest
+a9ed44dc9d6759af434a7ed7c80afaade204a109	not-for-merge	tag 'android-2.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+0b9fd29003d05cef76cbbd54dc8bb2885da25034	not-for-merge	tag 'android-2.1_r1_' of ssh://192.168.2.125:29418/android/platform/manifest
+5a4ff6e91b77d27f300c0af37aa48dfe5f276aa7	not-for-merge	tag 'android-2.1_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+8dd0f4040a342088b6ad087f6dc707790ec42367	not-for-merge	tag 'android-2.1_r2.1p' of ssh://192.168.2.125:29418/android/platform/manifest
+80a0b2ee88e234e75fa5660df1bc69df4c834eb2	not-for-merge	tag 'android-2.1_r2.1p2' of ssh://192.168.2.125:29418/android/platform/manifest
+801fb954c881c278557306077eb30eb936bc7ffc	not-for-merge	tag 'android-2.1_r2.1p2_' of ssh://192.168.2.125:29418/android/platform/manifest
+ab4d5386fcaa90b277177bf8cf8ae5b6bd6ee582	not-for-merge	tag 'android-2.1_r2.1p_' of ssh://192.168.2.125:29418/android/platform/manifest
+549f248aeb4e8987c63705cee2f9d5638820a45a	not-for-merge	tag 'android-2.1_r2.1s' of ssh://192.168.2.125:29418/android/platform/manifest
+afa9cb5f019b505535165fe3715ed519582f0fde	not-for-merge	tag 'android-2.1_r2.1s_' of ssh://192.168.2.125:29418/android/platform/manifest
+68e122d144be556c34748c15440fdb08ba385643	not-for-merge	tag 'android-2.1_r2_' of ssh://192.168.2.125:29418/android/platform/manifest
+6a03ae8f564130cbb4a11acfc49bd705df7c8df6	not-for-merge	tag 'android-2.2.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+a6d50aa25f03cd3bebac45f3f7f5c330baa00eaf	not-for-merge	tag 'android-2.2.1_r1_' of ssh://192.168.2.125:29418/android/platform/manifest
+a58c1eae4a1b676f460583b1a3bb0150b5eb182e	not-for-merge	tag 'android-2.2.1_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+46adce614527220eaf21788b1276480c450683f7	not-for-merge	tag 'android-2.2.1_r2_' of ssh://192.168.2.125:29418/android/platform/manifest
+bcd47671c3da34c700e87c38123a585aaf87a24d	not-for-merge	tag 'android-2.2.2_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+bc477595942920afc1bf69b0e12ae8e7e8826f41	not-for-merge	tag 'android-2.2.2_r1_' of ssh://192.168.2.125:29418/android/platform/manifest
+aa2532a072100c78b60724cc05373b5019df97e0	not-for-merge	tag 'android-2.2.3_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+ce90a70e982c4056d1cf3527c7bfbedc2ca0f4a7	not-for-merge	tag 'android-2.2.3_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+94616ad85f7a2ecc8d588e1adda1b538c2952def	not-for-merge	tag 'android-2.2.3_r2.1' of ssh://192.168.2.125:29418/android/platform/manifest
+656ba6fdbd243153af6ec31017de38641060bf1e	not-for-merge	tag 'android-2.2_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+f6b7c499be268f1613d8cd70f2a05c12e01bcb93	not-for-merge	tag 'android-2.2_r1.1' of ssh://192.168.2.125:29418/android/platform/manifest
+052e854b2175157fc115b7dce7b871c6711324c4	not-for-merge	tag 'android-2.2_r1.1_' of ssh://192.168.2.125:29418/android/platform/manifest
+03618e01ec9bdd06fd8fe9afdbdcbaf4b84092c5	not-for-merge	tag 'android-2.2_r1.2' of ssh://192.168.2.125:29418/android/platform/manifest
+e0e97374331093d3fd459633b656f8e0c79360e4	not-for-merge	tag 'android-2.2_r1.2_' of ssh://192.168.2.125:29418/android/platform/manifest
+e03485e978ce1662a1285837f37ed39eadaedb1d	not-for-merge	tag 'android-2.2_r1.3' of ssh://192.168.2.125:29418/android/platform/manifest
+51d152e95ec68d511509b4bda3e399209c7d6f0c	not-for-merge	tag 'android-2.2_r1.3_' of ssh://192.168.2.125:29418/android/platform/manifest
+91027678c91224977380f56aa3ce38a56daceed7	not-for-merge	tag 'android-2.2_r1_' of ssh://192.168.2.125:29418/android/platform/manifest
+1424ea98637086f54ef9e0d65c7a9257f6b07782	not-for-merge	tag 'android-2.3.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+0fbf977409ee169f9185762758f79c0fd374a824	not-for-merge	tag 'android-2.3.1_r1_' of ssh://192.168.2.125:29418/android/platform/manifest
+620ae1eea3eccf3ebb69279469134f9e7804e751	not-for-merge	tag 'android-2.3.2_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+f0779b562a1ee8a0bd2a186e064f57c1936cf4f3	not-for-merge	tag 'android-2.3.2_r1_' of ssh://192.168.2.125:29418/android/platform/manifest
+349ccf0f14641e57bed8978e2329798e677e5ee7	not-for-merge	tag 'android-2.3.3_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+a8c524e2e5339fc1142504aa5cc4b716685ddd59	not-for-merge	tag 'android-2.3.3_r1.1' of ssh://192.168.2.125:29418/android/platform/manifest
+702f28664063998a8f0731f3e3d3095dced6137a	not-for-merge	tag 'android-2.3.3_r1.1_' of ssh://192.168.2.125:29418/android/platform/manifest
+86fa13418c1dbf460bcf4326577759c9f1d12889	not-for-merge	tag 'android-2.3.3_r1_' of ssh://192.168.2.125:29418/android/platform/manifest
+e822cea058c0b3690349a9b0c1347e87205ec3f2	not-for-merge	tag 'android-2.3.3_r1a' of ssh://192.168.2.125:29418/android/platform/manifest
+0cfa7fc0cef0b7d0794b7cc81517ecb19aa7ab59	not-for-merge	tag 'android-2.3.4_r0.9' of ssh://192.168.2.125:29418/android/platform/manifest
+96f79072ff2e5d390a564c6ae4d16bed0da546b5	not-for-merge	tag 'android-2.3.4_r0.9_' of ssh://192.168.2.125:29418/android/platform/manifest
+89b8af0fd7287b053caf80ac10e285a486c44a78	not-for-merge	tag 'android-2.3.4_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+e2d5769f9c3f0ad9a644a26b5a9bdf90059fd2f4	not-for-merge	tag 'android-2.3.4_r1_' of ssh://192.168.2.125:29418/android/platform/manifest
+a24f0a4480696a8168df1c221713d33d21222f04	not-for-merge	tag 'android-2.3.5_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+7487061e457819c8a67560074d0c72d0b0398b0b	not-for-merge	tag 'android-2.3.5_r1_' of ssh://192.168.2.125:29418/android/platform/manifest
+373e9db0442fcc1a47a672dbfade53b1dbc5f253	not-for-merge	tag 'android-2.3.6_r0.9' of ssh://192.168.2.125:29418/android/platform/manifest
+96cf3212cc1b308f3679ab980b8daa7ce2f1a7e4	not-for-merge	tag 'android-2.3.6_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+1db98b3dedca5ab8b6eeefc5a7a98720e73fefdf	not-for-merge	tag 'android-2.3.7_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+9e802d05be08cff7c58bbea98d6c5a86a71d914d	not-for-merge	tag 'android-2.3_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+8f48d340e2fc5dc5f52ad3828f4f640b6e468823	not-for-merge	tag 'android-2.3_r1_' of ssh://192.168.2.125:29418/android/platform/manifest
+d030ac49cfeae06e2414933f6a72187cb18881b2	not-for-merge	tag 'android-4.0.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+91cf7659606ca78a9218500b7e3f79344519e77c	not-for-merge	tag 'android-4.0.1_r1.1' of ssh://192.168.2.125:29418/android/platform/manifest
+c55c84c3871b12e14fe2e28cfcb1257eddcc1cf9	not-for-merge	tag 'android-4.0.1_r1.2' of ssh://192.168.2.125:29418/android/platform/manifest
+2abc1c4c377d85ffd7344e9fff78be693ab057fa	not-for-merge	tag 'android-4.0.2_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+500aaaa87f49fddc1c7ca5066eebb2e03fdd14ac	not-for-merge	tag 'android-4.0.3_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+8431a67c28f25704926cd344821b4586d391ad76	not-for-merge	tag 'android-4.0.3_r1.1' of ssh://192.168.2.125:29418/android/platform/manifest
+a2b8908b15a565cde5e2936a57833c1c8ffd452b	not-for-merge	tag 'android-4.0.4_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+cb1e381e49f274ca01e30bfea146073f969e4f59	not-for-merge	tag 'android-4.0.4_r1.1' of ssh://192.168.2.125:29418/android/platform/manifest
+8895fbdd3e2de52169281da9e7942fb21bfd7372	not-for-merge	tag 'android-4.0.4_r1.2' of ssh://192.168.2.125:29418/android/platform/manifest
+e209ba99e5cb97b2a20e61c325ffdb2999f2a90d	not-for-merge	tag 'android-4.0.4_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+4b0dd15ccaf78b9c0d22abfe33b4d8a26ef6eef0	not-for-merge	tag 'android-4.0.4_r2.1' of ssh://192.168.2.125:29418/android/platform/manifest
+a064a6f38b06c7ca6dfc26477ff7fe07f86d1441	not-for-merge	tag 'android-4.1.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+0c6f0aa60c3c39066aec53d088517f890e9875b5	not-for-merge	tag 'android-4.1.1_r1.1' of ssh://192.168.2.125:29418/android/platform/manifest
+cf84692271635e7c99f2cbed53f22b79d19ad0d1	not-for-merge	tag 'android-4.1.1_r1_' of ssh://192.168.2.125:29418/android/platform/manifest
+da557383de18631ef7eed24cce9eb0bee2e6ddbf	not-for-merge	tag 'android-4.1.1_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+a669bcefe964d9e90ecb3389765bb08eee1eb919	not-for-merge	tag 'android-4.1.1_r3' of ssh://192.168.2.125:29418/android/platform/manifest
+9959f23acc699f2283157e8525cf9e9f173d844f	not-for-merge	tag 'android-4.1.1_r4' of ssh://192.168.2.125:29418/android/platform/manifest
+f1a13f2ca536466b5d7ac8bd6bec7473017f4500	not-for-merge	tag 'android-adt-0.9.8' of ssh://192.168.2.125:29418/android/platform/manifest
+a31e4ee786e5e99c3562352492706083e8965151	not-for-merge	tag 'android-adt-0.9.9' of ssh://192.168.2.125:29418/android/platform/manifest
+7a79ef34767b67b07f27999edb908fcb33c2c448	not-for-merge	tag 'android-cts-2.1_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+f0acbc8ba6b1857943c0eeeeca6308dfe68e1d30	not-for-merge	tag 'android-cts-2.1_r3' of ssh://192.168.2.125:29418/android/platform/manifest
+3d10b086c5cbf31a2ebe9c4386fba8f96c25788a	not-for-merge	tag 'android-cts-2.1_r4' of ssh://192.168.2.125:29418/android/platform/manifest
+cb82bb2da73c5b264666c59e7e9cebf8919124ad	not-for-merge	tag 'android-cts-2.1_r5' of ssh://192.168.2.125:29418/android/platform/manifest
+509ca243f11bf54538a3c9702f3d43094c2249b9	not-for-merge	tag 'android-cts-2.2_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+a52c63f3db0050cf1d9a84270ed54fe6fc8230cf	not-for-merge	tag 'android-cts-2.2_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+cc80a5ab65f45e8429a679adb17e4d1a005453b9	not-for-merge	tag 'android-cts-2.2_r3' of ssh://192.168.2.125:29418/android/platform/manifest
+3bbc830f48ca457996fa6790be6ec3333d8bac21	not-for-merge	tag 'android-cts-2.2_r4' of ssh://192.168.2.125:29418/android/platform/manifest
+c032e6200404562ee71d344a2354045250fbb747	not-for-merge	tag 'android-cts-2.2_r5' of ssh://192.168.2.125:29418/android/platform/manifest
+9c96999505dc26560b48c383a57402ca32365538	not-for-merge	tag 'android-cts-2.2_r6' of ssh://192.168.2.125:29418/android/platform/manifest
+e064f0463b76b8a93a0e4f3f39c8ae4bec8f1ea2	not-for-merge	tag 'android-cts-2.2_r7' of ssh://192.168.2.125:29418/android/platform/manifest
+835a0562ca4581fb7556cc790d076ef1c0dda707	not-for-merge	tag 'android-cts-2.2_r8' of ssh://192.168.2.125:29418/android/platform/manifest
+1334117ca484e6530ee6d6d30ec6263bac290a60	not-for-merge	tag 'android-cts-2.3_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+2df887a3c784bb28a4f942f3f20d82b53a8870a6	not-for-merge	tag 'android-cts-2.3_r10' of ssh://192.168.2.125:29418/android/platform/manifest
+89a33e5fd9f523979339b1709277ceb7861bc7c3	not-for-merge	tag 'android-cts-2.3_r11' of ssh://192.168.2.125:29418/android/platform/manifest
+a03a33aa8859d88112619d059320466c7d83985c	not-for-merge	tag 'android-cts-2.3_r12' of ssh://192.168.2.125:29418/android/platform/manifest
+557764297fe5625e719365b82d20dc951f30b436	not-for-merge	tag 'android-cts-2.3_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+6fed92adabe86a5db108e77246c32e1aeeac2712	not-for-merge	tag 'android-cts-2.3_r3' of ssh://192.168.2.125:29418/android/platform/manifest
+b9e5ee6a1bff9163c26536893248d78ab3445dd9	not-for-merge	tag 'android-cts-2.3_r4' of ssh://192.168.2.125:29418/android/platform/manifest
+915969035e89b5d2523851d78943b44a001c0001	not-for-merge	tag 'android-cts-2.3_r5' of ssh://192.168.2.125:29418/android/platform/manifest
+d6390b3b0ea57d76a1912f85eaf7af9b52137f3b	not-for-merge	tag 'android-cts-4.0.3_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+7a87f411cc4a2cefbfcc30edad37423ed717c152	not-for-merge	tag 'android-cts-4.0.3_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+d1ff655155a18ff65c3669070e8835c96d667d79	not-for-merge	tag 'android-cts-4.0_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+313044bb7c7774febf0cac4da2f75d4192812ff9	not-for-merge	tag 'android-cts-4.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+c775ebb8f7f8823c4c08f636ce0a4aa8255a1c03	not-for-merge	tag 'android-cts-verifier-4.0.3_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+148e6e0d4380a250430d415a2c9ab1767b368d89	not-for-merge	tag 'android-cts-verifier-4.0_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+2bc10ace3c4ff05ae70e6b466ea8144b9c04cf2a	not-for-merge	tag 'android-sdk-1.5-pre' of ssh://192.168.2.125:29418/android/platform/manifest
+5e9c258494a6a1d81de741d4d23dc4f1b4ed0d29	not-for-merge	tag 'android-sdk-1.5_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+1e4bb63b93b53e9bf188f224ecafe0a6e8796d9c	not-for-merge	tag 'android-sdk-1.5_r3' of ssh://192.168.2.125:29418/android/platform/manifest
+03ac4fbe608671ccb4ee0d339b9c7a793f156e73	not-for-merge	tag 'android-sdk-1.6-docs_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+53b96779227c58a7c8241021cdbeb90a0ae61231	not-for-merge	tag 'android-sdk-1.6_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+3f397d66ed99a19b1bd2be2c35c3ccb1299b7e0c	not-for-merge	tag 'android-sdk-1.6_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+349bd8c18afb10e590eb7fcfa604232640e996a6	not-for-merge	tag 'android-sdk-2.0.1-docs_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+d16b42f3559f82720254f95c4576d266fba1a9db	not-for-merge	tag 'android-sdk-2.0.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+55637f0574efcaef1269bf818a370bbb302c19ca	not-for-merge	tag 'android-sdk-2.0_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+544398d7c00a4bf874b305ee979feb410fca3c41	not-for-merge	tag 'android-sdk-2.1_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+ef3786f395cdafe7a371d28638c102ec6b1ec928	not-for-merge	tag 'android-sdk-2.2_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+116aa2a45e0ec99cc6eff57f9ee0a4dd088d5f49	not-for-merge	tag 'android-sdk-2.2_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+3eb512245d34cba108803d19835c7099264fdf47	not-for-merge	tag 'android-sdk-2.3.4_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+51f27c8046fab00ff7fd2ea2dcbc1a5f340b7782	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+6bf7f27c4225c654b96b4001b313a35d4de2edd7	not-for-merge	tag 'android-sdk-4.0.3_r1' of ssh://192.168.2.125:29418/android/platform/manifest
+d8db669555d367b39d5a9608cd45ed1cda255182	not-for-merge	tag 'android-sdk-adt_r12' of ssh://192.168.2.125:29418/android/platform/manifest
+5ada678709a80c0079770c9eebba5aa46fb88662	not-for-merge	tag 'android-sdk-adt_r16.0.1' of ssh://192.168.2.125:29418/android/platform/manifest
+13fba12019a0984130f2ff563c89f4b8fb15a14e	not-for-merge	tag 'android-sdk-adt_r20' of ssh://192.168.2.125:29418/android/platform/manifest
+fbff1d2060275fc7fbaa5ae110255cd5233cd89b	not-for-merge	tag 'android-sdk-tools_r12' of ssh://192.168.2.125:29418/android/platform/manifest
+0cc363fb19ef1468c8376fdfe20f43430b59282b	not-for-merge	tag 'android-sdk-tools_r2' of ssh://192.168.2.125:29418/android/platform/manifest
+2752babbc9137bdba1031e04256f2e9cf1772a98	not-for-merge	tag 'android-sdk-tools_r3' of ssh://192.168.2.125:29418/android/platform/manifest
+ead857a21965463a200bb9494bfec3ec7fe8d683	not-for-merge	tag 'android-sdk-tools_r4' of ssh://192.168.2.125:29418/android/platform/manifest
+3549f4634672911793196c619222c52ccce76168	not-for-merge	tag 'android-sdk-tools_r5' of ssh://192.168.2.125:29418/android/platform/manifest
+2ab909d4243fdb3560b8f80c9687b3bf8cabc27e	not-for-merge	tag 'android-sdk-tools_r6' of ssh://192.168.2.125:29418/android/platform/manifest
+791c32269f7d4cd6a688e90d11832683ada3b857	not-for-merge	tag 'android-sdk-tools_r7' of ssh://192.168.2.125:29418/android/platform/manifest
+59333eb88491897aca436c637945c41995d2bfad	not-for-merge	tag 'dev-mips-ics-mr0-111115' of ssh://192.168.2.125:29418/android/platform/manifest
+00ece54b1be0831140102c453d2e108bbd2072ec	not-for-merge	tag 'mips-rebase' of ssh://192.168.2.125:29418/android/platform/manifest
+9cb32dbac300e205d86cd5ff1a45bcd6d55a099b	not-for-merge	tag 'tag-local' of ssh://192.168.2.125:29418/android/platform/manifest
+1d41beb5a8f5219544c6733704840f84bb5867da	not-for-merge	tag 'tagname05' of ssh://192.168.2.125:29418/android/platform/manifest
+6fa6489e620f4a0cfaf85c45e5fe6717e18e6b6c	not-for-merge	tag 'tagnamev1.0' of ssh://192.168.2.125:29418/android/platform/manifest
+a2409b90eadd130548a9d68f58674181f163c477	not-for-merge	tag 'zcao-tag' of ssh://192.168.2.125:29418/android/platform/manifest
